@@ -33,7 +33,9 @@ Don't worry about the extra commands, to start the server use:
 mysql.server start
 ```
 
-By default, the root user in MySQL doesn't have a password and can only connect from localhost. So you can connect with:
+By default, the root user in MySQL doesn't have a password and can only connect from localhost.   
+
+Meaning you can connect with:
 
 ```
 /usr/local/bin/mysql -uroot
@@ -41,7 +43,7 @@ By default, the root user in MySQL doesn't have a password and can only connect 
 
 ### MySQL Info:
 
-https://dev.mysql.com/doc/refman/5.6/en/tutorial.html
+https://dev.mysql.com/doc/refman/5.6/en/tutorial.html   
 Good start: https://dev.mysql.com/doc/refman/5.6/en/database-use.html
 
 The id field should be of type: int
@@ -53,10 +55,10 @@ An auto-increment ID field - http://www.w3schools.com/sql/sql_autoincrement.asp
 Using plain Ruby to interact with MySQL - http://www.tutorialspoint.com/ruby/ruby_database_access.htm
 
 #### Active Record Guides
-API - http://apidock.com/rails/ActiveRecord/Base
+API - http://apidock.com/rails/ActiveRecord/Base   
 Rails Guides - http://guides.rubyonrails.org/active_record_querying.html
 
-### 'Dynamic' HTML with ERB
+## 'Dynamic' HTML with ERB
 
 ERB is an abbreviation for Embedded Ruby
 
@@ -64,8 +66,8 @@ DEMO Time!
 
 #### ERB Guides
 
-Ruby - http://www.stuartellis.eu/articles/erb/
-Quick intro - https://articles.startuprocket.com/a-quick-introduction-to-embedded-ruby-a-k-a-erb-eruby-7b6d26bf939d#.iryg4c4a4
+Ruby - http://www.stuartellis.eu/articles/erb/   
+Quick intro - https://articles.startuprocket.com/a-quick-introduction-to-embedded-ruby-a-k-a-erb-eruby-7b6d26bf939d#.iryg4c4a4   
 Rails (this might not be suitable yet) - http://guides.rubyonrails.org/layouts_and_rendering.html
 
 
