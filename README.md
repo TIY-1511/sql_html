@@ -68,7 +68,7 @@ DEMO Time!
 
 Ruby - http://www.stuartellis.eu/articles/erb/   
 Quick intro - https://articles.startuprocket.com/a-quick-introduction-to-embedded-ruby-a-k-a-erb-eruby-7b6d26bf939d#.iryg4c4a4   
-Rails (this might not be suitable yet) - http://guides.rubyonrails.org/layouts_and_rendering.html
+Rails Guides (this might not be suitable yet) - http://guides.rubyonrails.org/layouts_and_rendering.html
 
 
 
