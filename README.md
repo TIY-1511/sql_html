@@ -71,13 +71,17 @@ Quick intro - https://articles.startuprocket.com/a-quick-introduction-to-embedde
 Rails Guides (this might not be suitable yet) - http://guides.rubyonrails.org/layouts_and_rendering.html
 
 
+## Class Practice
+
+- Store books and authors in a database
+- Generate an HTML page with the books
+- Show images and descriptions for the books
+- The titles link to a page showing the authors for the book
 
 
+## Homework
 
-
-
-
-
-
-
-
+- Store albums and songs \ tracks in a database
+- Generate an HTML page with the albums
+- Show images and descriptions for the albums
+- The album titles link to a page showing the songs \ tracks for from the album
