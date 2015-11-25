@@ -1,5 +1,20 @@
-<ul>
-  <% @people.each do |person| %>
-    <li><%= person %></li>
-  <% end %>
-</ul>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<% if @people.length > 5 %>
+		<H1>Hello</H1>
+	<% else %>
+		<H1>The length is <%= @people.length %></H1>
+	<% end %>
+	<ul>
+	  <% @people.each do |person| %>
+	    <li><%= person %></li>
+	  <% end %>
+	</ul>
+</body>
+</html>
