@@ -55,8 +55,8 @@ An auto-increment ID field - http://www.w3schools.com/sql/sql_autoincrement.asp
 Using plain Ruby to interact with MySQL - http://www.tutorialspoint.com/ruby/ruby_database_access.htm
 
 #### Active Record Guides
-API - http://apidock.com/rails/ActiveRecord/Base   
-Rails Guides - http://guides.rubyonrails.org/active_record_querying.html
+- API - http://apidock.com/rails/ActiveRecord/Base   
+- Rails Guides - http://guides.rubyonrails.org/active_record_querying.html
 
 ## 'Dynamic' HTML with ERB
 
@@ -66,9 +66,9 @@ DEMO Time!
 
 #### ERB Guides
 
-Ruby - http://www.stuartellis.eu/articles/erb/   
-Quick intro - https://articles.startuprocket.com/a-quick-introduction-to-embedded-ruby-a-k-a-erb-eruby-7b6d26bf939d#.iryg4c4a4   
-Rails Guides (this might not be suitable yet) - http://guides.rubyonrails.org/layouts_and_rendering.html
+- Ruby - http://www.stuartellis.eu/articles/erb/   
+- Quick intro - https://articles.startuprocket.com/a-quick-introduction-to-embedded-ruby-a-k-a-erb-eruby-7b6d26bf939d#.iryg4c4a4   
+- Rails Guides (this might not be suitable yet) - http://guides.rubyonrails.org/layouts_and_rendering.html
 
 
 ## Class Practice
