@@ -18,5 +18,5 @@ accountant = Accountant.new
 
 accountant.speak
 
-inheritance
+
 
