@@ -75,11 +75,15 @@ DEMO Time!
 
 - Store books and authors in a database
 - Generate an HTML page with the books
-- Show images and descriptions for the books
-- The titles link to a page showing the authors for the book
-
+- Show images and descriptions for the books - did not complete
+- The titles link to a page showing the authors for the book - did not complete
 
 ## Homework
+
+Use the "bookstore application" we worked on in the class, to generate an HTML page which lists all the books in the daatabase, as well as all the chapters for each book. 
+
+
+## Optional Homework
 
 - Store albums and songs \ tracks in a database
 - Generate an HTML page with the albums
